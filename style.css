@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: gray;
+    font-size: 60px;
+}
+
+body{
+    background-color: skyblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.provisioning {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color: gray;
+    color: whitesmoke;
+    line-height: 2;
+}
+
+.provisioning h2 {
+    margin-right: 20px; 
+    font-size: 40px;
+}
+
+.provisioning .content{
+    flex: 1;
+}
+
+.provisioning p{
+    font-size: 20px;
+    padding: 0 20px;
+}
+
+img{
+    margin-right: 20px;
+}
+
+.types-of-provisioning{
+    color: white;
+    background-color: gray;
+    padding: 0 20px;
+    line-height: 2;
+}
+
+.h2-size{
+    font-size: 40px;
+}
+
+.types-of-provisioning p{
+    font-size: 20px;
+}
+
+.bold-list li{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.provision-content{
+    color: white;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.provision-content li{
+    font-size: 25px;
+    line-height: 2;
+}
+
+.provision-challenges{
+    font-size: 20px;
+    background-color: gray;
+    line-height: 2;
+    color: white;
+    padding: 0 20px;
+}
+
+.provision-challenges li{
+    font-weight: bold;
+}
+
+.justified{
+    text-align: justify;
+}
+
+#tr{
+    font-size: 20px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    float: right;
+}
